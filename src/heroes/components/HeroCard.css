@@ -1,0 +1,7 @@
+.custom-transition {
+    transition: transform 0.3s;
+}
+
+.custom-transition:hover {
+    transform: scale(1.05);
+}
